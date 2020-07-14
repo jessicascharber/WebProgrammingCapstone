@@ -8,7 +8,7 @@ Purpose:      This page congfigures the database.
 
  <?php
 $dbhost = 'localhost';
-$dbuser = 'jessicascharber';
-$dbpass = 'RassPass2018';
+$dbuser = '';
+$dbpass = '';
 $db_name = 'cabindb';
 ?>
